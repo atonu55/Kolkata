@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png",Sun bangla
-http://xsmarters.top:8080/live/0966717777/0966717777/245906.ts
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD_4y6KmzTCYamrBec5EYmlGTl78KWsqfBw&usqp=CAU",Ropushi Bangla
 http://xsmarters.top:8080/live/0966717777/0966717777/245932.ts
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZ2WTxsp3a48_3C2-KUg18VtRIFCXOx0ptw&usqp=CAU",Sanjeet Bangla
@@ -32,31 +30,29 @@ https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8?
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyD-r_iOeeu28OkmT_ZmBlQ61PrncRgWLyeafkPeo8AV6cggSmQOzn3OfL&s=10",Somoy Kolkata
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8?
-#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWlJTySt4jQ8WjdLQajMOu-9qDDljUTq4lD9QIQPO_0w40x5qN6bZqPKq&s=10",Jalsha movies
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA-MOVIES-HD/live.mpd
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzru64os1shCdwhA0W--nJVyBYYGm82YXw0tdbETCw1s8HfjotBqavY1tY&s=10",Bangla Plus
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylaokf1TCdYunrrVZdAbn9A1lolFbzxMEmLAOGipEbT9xQaqF4-eo27nn&s=10",Sanonda tv
-https://cdn2.pishow.tv/live/135/master.m3u8
+http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb7TJ7dxWFjs3y0sMCduzNOXTbuZQO1dRtmo0exiK_6isDkiahYjP9XeNU&s=10",Tara tv
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://server.playontv.in/TARAMUSIC/index.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg",Khusboo bangla
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://cdn3.pishow.tv/live/283/283_0.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnHo4Gnyp2OwGk-Cgng2ESch9heGms-XL9ScpoiYfJ7mfCV2RLhOKnrTzT&s=10",Rongeen Tv
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8_XKoGc7ts0rBnQNnEjvtjox5BefdCwSbRXi3kRsPScpMUUAFUnvAd4&s=10",Tara bangla cinema
-https://cdn2.pishow.tv/live/135/master.m3u8
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUa2VjQAuhj7LaVGnabfZ-CVxjxrqhdpnU6G0mK2EjOz5BTUhkfRfDmL6z&s=10",Colors bangla hd
-https://cdn2.pishow.tv/live/135/master.m3u8
-#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://yt3.googleusercontent.com/BwhG6OfY0ID89FAI6u8DrozohRj44n7WPMOu-HH-L6XnECh_VhjHhSwxZcFweN-PvlTMgmn5lA=s900-c-k-c0x00ffffff-no-rj",Star jalsha
-https://cdn2.pishow.tv/live/135/master.m3u8
+http://217.20.112.199/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://yt3.googleusercontent.com/BwhG6OfY0ID89FAI6u8DrozohRj44n7WPMOu-HH-L6XnECh_VhjHhSwxZcFweN-PvlTMgmn5lA=s900-c-k-c0x00ffffff-no-rj",Star jalsha hd (Medium)
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://dthlivetv.com/images/channel_icons/aamar_digital.png",Amar digital
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXB5jGiCVdCJlTmq-hrmRuXd8tAZKn0W38xuNlfcM4FbM517oRy20RCUM&s=10",Amar bangla
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqW7rFErCtkzFR7WFvFFbZIT9zL8uSSuyJOnoG6BSqHGETj_0pLdvfze_O&s=10",Enter 10 bangla
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzAvQln65nkTJigVaYVMKK-FWDYvaIaINww&usqp=CAU",Mon tv
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony aath
-https://cdn2.pishow.tv/live/135/master.m3u8
+https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
