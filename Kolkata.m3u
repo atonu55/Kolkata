@@ -1,3 +1,21 @@
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Zee 24 ghonta
+https://otttv.co.in/dishtv/playlist.php?id=24-ghanta&vtoken=&e=.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk3OA4m1qunyGKYEZmnrav4f4COItFDK6nzRT5S-7nhIcL2PlWSKPkN5Y&s=10",Colors Bangla
+https://colorsscreen.com/live.php?id=1369&extension=.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://yuppstatic.akamaized.net/yupptv/yupptvscope/Republic-Bangla_OG_1200X628.jpg",Republic Bangla
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/main.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjAjY9NtOdp4YxpFl2X-7rXK2v8jEEfNnE8A&s",Sonic Bangla
+https://colorsscreen.com/live.php?id=1345&extension=.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0baOqK8b__VpFOT5yIg3m2BCiXXvNqTESUUjB4dv6hRFx5by_U6xyFEM&s=10",Nick Bangla
+https://colorsscreen.com/live.php?id=1341&extension=.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/DD_Bangla_logo_alt_%282013%29.png/revision/latest?cb=20210916042408",DD Bangla
+https://colorsscreen.com/live.php?id=690&extension=.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Colors Bangla Cinema
+https://colorsscreen.com/live.php?id=1657&extension=.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a6/ABP_Ananda_logo_alt_%282012%29.png/revision/latest/scale-to-width-down/250?cb=20210908125729",ABP Anondo
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/29e79d0e-5980-46db-afc0-92a7d74de90b/2.m3u8
+#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Nick Sonic Bangla
+https://colorsscreen.com/live.php?id=1345&extension=.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png",Sun bangla
 http://xsmarters.top:8080/live/0966717777/0966717777/245906.ts
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD_4y6KmzTCYamrBec5EYmlGTl78KWsqfBw&usqp=CAU",Ropushi Bangla
