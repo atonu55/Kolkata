@@ -1,7 +1,5 @@
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png",Sun bangla
 http://xsmarters.top:8080/live/0966717777/0966717777/245906.ts
-#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png",Sun bangla
-https://colorsscreen.com/live.php?id=1669&extension=.m3u8
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD_4y6KmzTCYamrBec5EYmlGTl78KWsqfBw&usqp=CAU",Ropushi Bangla
 http://xsmarters.top:8080/live/0966717777/0966717777/245932.ts
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZ2WTxsp3a48_3C2-KUg18VtRIFCXOx0ptw&usqp=CAU",Sanjeet Bangla
@@ -18,8 +16,6 @@ http://xsmarters.top:8080/live/0966717777/0966717777/245921.ts
 http://xsmarters.top:8080/live/0966717777/0966717777/245950.ts
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_QuJAjOZdxFOTjCQpzoh0wD10wv6YGnG7g&s",Amar Digital
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8?
-#EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJt-Z51ppilItwVDfiRlR4cxBY-OO_gGavQWZXeA-m3qIyWEH-lCA0xhQ&s=10",Anondo ab barta tv
-https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8?
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCi1mcoT9XVuev5K-nS3f7N8_txUnu5hOb4NnOh1kXYQaIAQEODJE8mEI&s=10",Home tv
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8?
 #EXTINF:-1 group-title="Indian Channel" tvg-logo="https://yt3.googleusercontent.com/ALsQiTJWeVshqm5zYXGDeodqzgXk909LJH-GMLcHYMPcosp1ds-8ihzeDKuL6WJA4NLTcBCx=s900-c-k-c0x00ffffff-no-rj",Express news
